@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+open3d
+geomdl
+pygad
+EOF
